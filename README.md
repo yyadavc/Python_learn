@@ -1,4 +1,4 @@
-# Python_learn
+
 Create Virtial Env 
 2 ways 
 
@@ -18,3 +18,4 @@ python -m venv myenv
 cd Scripts
  activate 
 cd.. 
+
