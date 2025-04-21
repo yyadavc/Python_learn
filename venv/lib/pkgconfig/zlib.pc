@@ -1,0 +1,13 @@
+prefix=/workspaces/Python_learn/venv
+exec_prefix=/workspaces/Python_learn/venv
+libdir=/workspaces/Python_learn/venv/lib
+sharedlibdir=/workspaces/Python_learn/venv/lib
+includedir=/workspaces/Python_learn/venv/include
+
+Name: zlib
+Description: zlib compression library
+Version: 1.2.13
+
+Requires:
+Libs: -L${libdir} -L${sharedlibdir} -lz
+Cflags: -I${includedir}

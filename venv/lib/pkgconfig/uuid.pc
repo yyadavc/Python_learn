@@ -1,0 +1,11 @@
+prefix=/workspaces/Python_learn/venv
+exec_prefix=/workspaces/Python_learn/venv
+libdir=/workspaces/Python_learn/venv/lib
+includedir=/workspaces/Python_learn/venv/include
+
+Name: uuid
+Description: Universally unique id library
+Version: 2.32.1
+Requires:
+Cflags: -I${includedir}/uuid
+Libs: -L${libdir} -luuid
