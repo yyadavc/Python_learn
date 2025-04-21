@@ -1,4 +1,3 @@
-# Python_learn
 
 Create Virtial Env 
 2 ways 
